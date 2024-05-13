@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-echo "calc-links"
-
 echo -e "\e[37;1m"
+
+echo "calc-links"
 
 echo "By: @Pauloxc6"
 echo ""
