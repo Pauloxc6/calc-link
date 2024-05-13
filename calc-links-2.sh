@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-figlet calc-links
+echo "calc-links"
 
 echo -e "\e[37;1m"
 
